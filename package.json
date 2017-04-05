@@ -1,0 +1,29 @@
+{
+  "name": "chess-bishop-kata",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "$(npm bin)/ava test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gryff/chess-bishop-kata.git"
+  },
+  "keywords": [
+    "chess",
+    "kata"
+  ],
+  "author": "Liam Griffin, Sergio Rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gryff/chess-bishop-kata/issues"
+  },
+  "homepage": "https://github.com/Gryff/chess-bishop-kata#readme",
+  "devDependencies": {
+    "ava": "^0.19.0"
+  }
+}
